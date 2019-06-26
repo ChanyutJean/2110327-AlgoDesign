@@ -1,3 +1,7 @@
+#
+# Author: Chanyut Yuvacharuskul
+#
+
 def check(i, j, size):
     for k in range(size):
         if data[i+size-1][j+k] == '0':
